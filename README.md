@@ -1,32 +1,27 @@
 # Project Name
-hot-resturant
+Hot Restaurant
 
 ## Description
-One or two sentences summarizing your project. This should be more
-interesting than technical.
+The Hot Restaurant app is your one stop shop to get your table booked at the Hot Restaurant. Due to the overwhelming popularity of our restaurant we will also offer a waiting list so you too can experience Hot Restaurant!
 
 ## Motivation
-Two or three sentences describing the problem the project solves.
+With the Hot Restaurant app we aim to:
+1. Allow all the beautiful people of this great city to book a table at our restaurant or
+2. Get your name on the waiting list
 
 ## Results
-One or two sentences describing the end result—in other words.
+The Hot Restaurant app will display users with a home page, give them options to view tables, make a reservation and also links to view api information.
 
 ## Team Efforts
-Describe how you delegated work amongst your team members.
+Work was broke amongst three developers: Front-end, Back-end and a Relese Manager.
 
 ## Individual Responsibilities.
-Describe what you contributed to the project as an
-individual—in other words, the parts of the project that you were accountable for.
+Chase Cannon - Handled the majority of the front-end including the html, css and client side JavaScript.
+Brad Ham - Handled the majority of the back-end including the server side JavaScript and API.
+Cameron Wilson - Handled the GitHub repository setup, managing the merging of pull requests and assisted the other developers with research and advice.
 
 ### Challenges
-Describe any challenges you and/or your team encountered
-that you personally played an important role in resolving.
+Dealing with the API calls
 
 ## Improvements
-Describe changes you would make going forward. These can be
-changes you’d make for better scalability; additional features you’d add; improvements
-you’d make to the codebase; etc.
-
-## DELETE THIS SECTION
-After compiling this information for each project, use it to rehearse your answer to the question:
-_“Tell me about a technical project you’ve worked on”_. You should be able to cover the first three points in less than **45 seconds**, and summarize the last three in **approximately a minute**. You should, however, be able to further elaborate on improvements; challenges; and individual responsibilities if prompted.
+We would like to include a wait time for those on the wait list and implement a calendar for future bookings.
